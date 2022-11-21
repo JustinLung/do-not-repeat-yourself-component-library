@@ -30,6 +30,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"ilojo-bar-components": "^0.8.0"
+		"ilojo-bar-components": "^1.0.2"
 	}
 }
